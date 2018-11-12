@@ -1,0 +1,8 @@
+{
+    "author": "Your Catacrocker Name",
+    "email": "catacrockers@gmail.com",
+    "project_name_full": "Catacrocker Project Name",
+    "project_name": "{{ cookiecutter.project_name_full.lower().replace(' ', '_') }}",
+    "project_short_description": "Refreshingly simple Catacrocker project folder generator",
+    "version": "0.5"
+}

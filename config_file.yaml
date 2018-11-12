@@ -1,0 +1,7 @@
+default_context:
+  author: "Configure Your Name"
+  email: "configure@gmail.com"
+  project_name_full: "Configure Project Name"
+  project_name: "config_project"
+  project_short_description: "Refreshingly simple project folder generator."
+  version: "1.0"
