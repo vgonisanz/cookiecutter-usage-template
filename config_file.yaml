@@ -1,7 +1,8 @@
 default_context:
-  author: "Configure Your Name"
-  email: "configure@gmail.com"
-  project_name_full: "Configure Project Name"
-  project_name: "config_project"
-  project_short_description: "Refreshingly simple project folder generator."
-  version: "1.0"
+  author: Your Catacrocker CONFIG Name
+  email: catacrockers_config@gmail.com
+  project_name_full: Catacrocker Project CONFIG Name
+  project_name: "{{ cookiecutter.project_name_full.lower().replace(' ', '_') }}"
+  project_short_description: Refreshingly simple CONFIG Catacrocker project folder generator
+  add_hello_world: 'yes'
+  version: '0.5'

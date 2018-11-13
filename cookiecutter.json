@@ -4,5 +4,8 @@
     "project_name_full": "Catacrocker Project Name",
     "project_name": "{{ cookiecutter.project_name_full.lower().replace(' ', '_') }}",
     "project_short_description": "Refreshingly simple Catacrocker project folder generator",
+    "add_hello_world": "yes",
+    "modules": { "names": ["module_1", "module_2", "module_3"] },
+    "samples": { "names": ["sample_1", "sample_2", "sample_3"] },
     "version": "0.5"
 }
