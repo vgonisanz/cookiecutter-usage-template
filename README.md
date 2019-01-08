@@ -33,5 +33,5 @@ cookiecutter $(path_to_basic_folder) --config-file $(config_file).yaml --no-inpu
 Example using from Github:
 
 ```
-cookiecutter https://github.com/Catacrockers/cookiecutter-usage-template.git
+cookiecutter https://github.com/vgonisanz/cookiecutter-usage-template.git
 ```
