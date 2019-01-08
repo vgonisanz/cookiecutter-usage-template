@@ -12,7 +12,7 @@ if __name__ == "__main__":
 
     # jinja syntax
     {% if cookiecutter.add_hello_world == "yes" %}
-    clone_helloworld("https://github.com/Catacrockers/cookiecutter-helloworld.git", "greeting", "hi")
+    clone_helloworld("https://github.com/vgonisanz/cookiecutter-helloworld.git", "greeting", "hi")
     {% endif %}
 
     {% for module in cookiecutter.modules.names %}
