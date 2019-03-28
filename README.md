@@ -35,3 +35,6 @@ Example using from Github:
 ```
 cookiecutter https://github.com/vgonisanz/cookiecutter-usage-template.git
 ```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4ODg0NjM1MzJdfQ==
+-->
